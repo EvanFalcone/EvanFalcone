@@ -1,16 +1,16 @@
-### Hi there 👋
+# Evan Falcone
+Data Scientist III at theScore.
 
-<!--
-**EvanFalcone/EvanFalcone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+Experienced Data Scientist with an interest in making abstract models production-ready. Passionate about balancing model sophistication and operational efficacity.
+* University of Waterloo, Masters of Mathematics in Data Science and Artificial Intelligence, 2021 (4.0 GPA)
+* McGill University, BScH Applied Mathematics and Physics, 2015
 
-Here are some ideas to get you started:
+## Interests
+I spend most of my professional development knowledge and skills in `python` and `SQL`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+I love writing / recording / listening to music, playing soccer, running and language exchange. 
+
+## Contact
+Feel free to contact me at <a href="mailto:estevan.falcone@gmail.com">estevan.falcone@gmail.com</a>
