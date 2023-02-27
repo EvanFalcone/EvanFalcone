@@ -1,5 +1,5 @@
 # Evan Falcone
-Data Scientist III at theScore.
+Senior Data Scientist at theScore.
 
 ## Summary
 Experienced Data Scientist with an interest in making abstract models production-ready. Passionate about balancing model sophistication and operational efficacity.
