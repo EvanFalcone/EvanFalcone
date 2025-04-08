@@ -1,8 +1,8 @@
 # Evan Falcone
-Senior Data Scientist at theScore.
+Tech Lead, Data Scientist at theScore.
 
 ## Summary
-Experienced Data Scientist with an interest in making abstract models production-ready. Passionate about balancing model sophistication and operational efficacity.
+Experienced in Data Science & Machine Learning with an interest in making abstract models production-ready. Passionate about balancing model sophistication and operational efficacity.
 * University of Waterloo, Masters of Mathematics in Data Science and Artificial Intelligence, 2021 (4.0 GPA)
 * McGill University, BScH Applied Mathematics and Physics, 2015
 
